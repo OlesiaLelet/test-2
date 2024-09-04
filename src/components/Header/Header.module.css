@@ -1,0 +1,14 @@
+.header {
+    background-color: rgb(255, 255, 255);
+    border-radius: 2px;
+    display: flex;
+    margin: 20px auto;
+    color: rgb(0, 0, 0);
+    gap: 30px;
+    justify-content: center;
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    max-width: 800px;
+    font-size: small;
+
+}

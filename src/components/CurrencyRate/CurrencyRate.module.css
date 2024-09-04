@@ -1,0 +1,36 @@
+.container {
+    display: flex;
+    gap:10px;
+    color: black;
+    font-size: 16px;
+    
+   
+}
+.boxForIcon {
+    width: 48px;
+    height: 48px;
+    border-radius: 100%;
+    background-color: #ecebeb;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+.icon {
+    width: 36px;
+    height: 36px;
+
+    
+}
+.nameOfCurrency {
+    margin: 0px;
+}
+.rate {
+    margin: 0px;
+}
+.rateOfC {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+}
